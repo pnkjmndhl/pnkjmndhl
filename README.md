@@ -1,19 +1,6 @@
-- 👋 Hi, I’m @pnkjmndhl
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-
-
-
 ## Hi there 👋
 
 - 🔭 I’m a recent graduate from University of Tennessee, Knoxville with a Ph.D. in Transportation and a M.S in Statistics. I am practicing ML applications, designing experiments, predictive analytics, and causal inference to solve open-ended problems.
-
-
-USING HEURISTIC METHODS AND MACHINE LEARNING TO ENHANCE THE POSITIONAL ACCURACY OF HISTORICAL GEOSPATIAL DATASETS
 
 - 🌱 My doctoral research was on "Using Heuristic Methods and Machine to enhance the positional Accuracy of Historical Geospatial Datasets". 
 
@@ -25,7 +12,7 @@ USING HEURISTIC METHODS AND MACHINE LEARNING TO ENHANCE THE POSITIONAL ACCURACY 
 pnkjmndhl/pnkjmndhl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
--->
+
 
 ## Skills
 
