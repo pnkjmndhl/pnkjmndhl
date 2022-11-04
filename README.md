@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m a recent graduate from University of Tennessee, Knoxville with a Ph.D. in Civil Engineering (specialization in Transportation Engineering) and a M.S in Statistics. I am practicing ML applications, designing experiments, predictive analytics, and causal inference to solve open-ended problems.
+- 🔭 I’m a recent graduate from University of Tennessee, Knoxville with a Ph.D. in Civil Engineering (concentration in Transportation Engineering) and a M.S in Statistics. I am practicing ML applications, designing experiments, predictive analytics, and causal inference to solve open-ended problems.
 
 - 🌱 My doctoral research was on "Using Heuristic Methods and Machine to enhance the positional Accuracy of Historical Geospatial Datasets". 
 
