@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m a recent graduate from University of Tennessee, Knoxville with a Ph.D. in Civil Engineering (concentration in Transportation Engineering) and a M.S in Statistics. I am practicing ML applications, designing experiments, predictive analytics, and causal inference to solve open-ended problems.
+- 🔭 I’m a recent graduate from University of Tennessee, Knoxville with a Ph.D. in Civil Engineering (concentration in Transportation Engineering) and a M.S in Statistics. I am a self-motivated problem solver, passionate about using scientific methodology and to solve real world problems and finding actionable insights. I am practicing ML applications, designing experiments, predictive analytics, and causal inference to solve open-ended problems.
 
 - 🌱 My doctoral research was on "Using Heuristic Methods and Machine to enhance the positional Accuracy of Historical Geospatial Datasets". 
 
@@ -16,9 +16,9 @@ You can click the Preview link to take a look at your changes.
 
 ## Skills
 
-**Programming Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL, C++
+**Programming Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), R, MATLAB, Octave, ArcGIS/QGIS, Perl, VBA, Excel, SQL
 
-**Machine Learning:** Supervised Learning, Unsupervised Learning (Clustering, PCA)
+**Machine Learning:** Supervised Learning, Unsupervised Learning, Regression, Model Selection, Regularization
 
 **Deep Learning:** Neural Networks (TensorFlow, Pytorch, Keras)
 
