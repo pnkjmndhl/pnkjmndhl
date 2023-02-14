@@ -2,7 +2,7 @@
 
 - 🔭 I’m a recent graduate from University of Tennessee, Knoxville with a Ph.D. in Civil Engineering (concentration in Transportation Engineering) and an M.S in Statistics. I am a self-motivated problem solver, passionate about using scientific methodology and to solve real world problems and finding actionable insights. I am practicing ML/DL applications, designing experiments, predictive analytics, and causal inference to solve open-ended problems.
 
-- 🌱 My doctoral research was on "Using Heuristic Methods and Machine Learning to enhance the positional Accuracy of Historical Geospatial Datasets". 
+- 🌱 My doctoral research was on "*Using Heuristic Methods and Machine Learning to enhance the positional Accuracy of Historical Geospatial Datasets*". 
 
 - ⚡ Hobbies: I love being in the nature, mostly hiking. I also love playing soccer, tennis and reading. 
 
